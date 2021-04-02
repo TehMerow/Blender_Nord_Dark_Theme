@@ -4,22 +4,22 @@ A dark theme for Blender 2.8x+ utilizing the [Nord Color Pallette](https://www.n
 
 ## Main Workspace, 3D Viewport
 
-![screenshot of the 3D viewport](screenshots\screen_main.webp)
+![screenshot of the 3D viewport](screenshots/screen_main.webp)
 
 ## Shading Workspace
 
-![screenshot of the shading workspace](screenshots\screen_shading.webp)
+![screenshot of the shading workspace](screenshots/screen_shading.webp)
 
 ## Motion Tracking Workspace
 
-![screenshot of the motion tracking workspace](screenshots\screen_motion_tracking_workspace.webp)
+![screenshot of the motion tracking workspace](screenshots/screen_motion_tracking_workspace.webp)
 
 
 ## Scripting Workspace
 
 With Syntax Highlighting
 
-![screenshot of the scripting workspace using the addon_add_object.py template](screenshots\screen_scripting_workspace.webp)
+![screenshot of the scripting workspace using the addon_add_object.py template](screenshots/screen_scripting_workspace.webp)
 
 # How do I put this thing in the other thing???
 
