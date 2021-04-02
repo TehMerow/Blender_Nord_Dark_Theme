@@ -1,3 +1,4 @@
+![Banner](images/github_banner.webp)
 # Nord Dark Theme for Blender
 
 A dark theme for Blender 2.8x+ utilizing the [Nord Color Pallette](https://www.nordtheme.com/) by [Arctic Ice Studio](https://github.com/arcticicestudio)
