@@ -30,13 +30,13 @@ With Syntax Highlighting
 
 ___
 
-1. Download [this repo](#) and extract to somewhere on your device
+1. Download [this repo as zip](https://github.com/TehMerow/blender_nord_dark_theme/archive/refs/heads/main.zip) or clone the repository then extract to somewhere on your device
 
-2. Open up Blender and head on over to your theme prefrences under Edit > Prefrences > Themes
+2. Open Blender and go to the theme prefrences under Edit > Prefrences > Themes
 
-3. Click on the install button and navigate to where you extracted the zip file, click on "nord_dark.xml" and click on "Install Theme"
+3. Click on the install button and navigate to where you extracted the zip file or cloned the repository, click on "nord_dark.xml" and click on "Install Theme"
 
-4. Click on the dropdown menu and select the theme you just installed
+4. Select the theme from the theme dropdown menu
 
 5. You're done! 🥳
 
