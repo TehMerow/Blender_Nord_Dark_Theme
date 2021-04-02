@@ -31,12 +31,12 @@ ___
 
 2. Open up Blender and head on over to your theme prefrences under Edit > Prefrences > Themes
 
-3. Click on the install button and navigate to where you extracted the zip file, click on "nord_dark.xml" and click ok
+3. Click on the install button and navigate to where you extracted the zip file, click on "nord_dark.xml" and click on "Install Theme"
 
 4. Click on the dropdown menu and select the theme you just installed
 
 5. You're done! 🥳
 
-Have fun and it you enjoy this theme ~~~ 
+Have fun and if you enjoy this theme ~~~ 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z31DUBF)
