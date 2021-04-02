@@ -43,4 +43,4 @@ ___
 
 Have fun and if you enjoy this theme ~~~ 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z31DUBF)
+[![ko-fi](images/ko-fi_button.svg)](https://ko-fi.com/Z8Z31DUBF)
