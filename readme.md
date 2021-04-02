@@ -2,6 +2,9 @@
 
 A dark theme for Blender 2.8x+ utilizing the [Nord Color Pallette](https://www.nordtheme.com/) by [Arctic Ice Studio](https://github.com/arcticicestudio)
 
+
+# All workspaces in Blender are themed, here are some examples
+
 ## Main Workspace, 3D Viewport
 
 ![screenshot of the 3D viewport](screenshots/screen_main.webp)
