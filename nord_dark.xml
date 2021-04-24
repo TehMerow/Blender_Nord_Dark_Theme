@@ -154,8 +154,8 @@
           <ThemeWidgetColors
             outline="#434c5e"
             inner="#434c5eff"
-            inner_sel="#5e81acff"
-            item="#5680c2e6"
+            inner_sel="#434c5eff"
+            item="#5e81acff"
             text="#eceff4"
             text_sel="#ffffff"
             show_shaded="TRUE"
