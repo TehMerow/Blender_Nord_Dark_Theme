@@ -29,7 +29,11 @@
         icon_modifier="#88c0d0ff"
         icon_shading="#bf616aff"
         icon_folder="#ebcb8bff"
+<<<<<<< HEAD
         icon_border_intensity="0.05"
+=======
+        icon_border_intensity="0.1"
+>>>>>>> e510f2e95013f332361f30849814cff3c72789a1
         >
         <wcol_regular>
           <ThemeWidgetColors
@@ -350,7 +354,11 @@
         <wcol_tab>
           <ThemeWidgetColors
             outline="#2e3440"
+<<<<<<< HEAD
             inner="#2e3440ff"
+=======
+            inner="#434c5eff"
+>>>>>>> e510f2e95013f332361f30849814cff3c72789a1
             inner_sel="#5e81acff"
             item="#2d2d2dff"
             text="#eceff4"
