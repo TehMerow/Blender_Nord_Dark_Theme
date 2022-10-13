@@ -3,7 +3,7 @@
     <user_interface>
       <ThemeUserInterface
         menu_shadow_fac="0.4"
-        menu_shadow_width="12"
+        menu_shadow_width="6"
         icon_alpha="1"
         icon_saturation="1"
         widget_emboss="#00000026"
@@ -29,11 +29,7 @@
         icon_modifier="#88c0d0ff"
         icon_shading="#bf616aff"
         icon_folder="#ebcb8bff"
-<<<<<<< HEAD
-        icon_border_intensity="0.05"
-=======
-        icon_border_intensity="0.1"
->>>>>>> e510f2e95013f332361f30849814cff3c72789a1
+        icon_border_intensity="0.01"
         >
         <wcol_regular>
           <ThemeWidgetColors
@@ -44,7 +40,7 @@
             text="#eceff4"
             text_sel="#ffffff"
             show_shaded="FALSE"
-            shadetop="95"
+            shadetop="0"
             shadedown="-5"
             roundness="0.5"
             >
@@ -74,7 +70,7 @@
             text="#eceff4"
             text_sel="#ffffff"
             show_shaded="FALSE"
-            shadetop="-68"
+            shadetop="0"
             shadedown="0"
             roundness="0.5"
             >
@@ -104,7 +100,7 @@
             text="#eceff4"
             text_sel="#ffffff"
             show_shaded="FALSE"
-            shadetop="31"
+            shadetop="-3"
             shadedown="0"
             roundness="0.5"
             >
@@ -163,7 +159,7 @@
             item="#5e81acff"
             text="#eceff4"
             text_sel="#ffffff"
-            show_shaded="FALSE"
+            show_shaded="TRUE"
             shadetop="-4"
             shadedown="0"
             roundness="0.5"
@@ -179,7 +175,7 @@
             text="#eceff4"
             text_sel="#ffffff"
             show_shaded="FALSE"
-            shadetop="38"
+            shadetop="0"
             shadedown="0"
             roundness="0.5"
             >
@@ -314,7 +310,7 @@
             text="#eceff4"
             text_sel="#ffffff"
             show_shaded="FALSE"
-            shadetop="-22"
+            shadetop="0"
             shadedown="0"
             roundness="0.5"
             >
@@ -354,17 +350,13 @@
         <wcol_tab>
           <ThemeWidgetColors
             outline="#2e3440"
-<<<<<<< HEAD
-            inner="#2e3440ff"
-=======
-            inner="#434c5eff"
->>>>>>> e510f2e95013f332361f30849814cff3c72789a1
+            inner="#333945ff"
             inner_sel="#5e81acff"
             item="#2d2d2dff"
             text="#eceff4"
             text_sel="#ffffff"
             show_shaded="FALSE"
-            shadetop="-63"
+            shadetop="0"
             shadedown="0"
             roundness="0.5"
             >
@@ -563,7 +555,7 @@
     </graph_editor>
     <file_browser>
       <ThemeFileBrowser
-        selected_file="#5e81ac"
+        selected_file="#4f76b3"
         row_alternate="#ffffff07"
         >
         <space>
@@ -887,8 +879,8 @@
     </sequence_editor>
     <properties>
       <ThemeProperties
-        match="#5e81ac"
-        active_modifier="#5e81acff"
+        match="#5680c2"
+        active_modifier="#5680c2ff"
         >
         <space>
           <ThemeSpaceGeneric
@@ -986,7 +978,7 @@
         frame_node="#3b4252cc"
         matte_node="#975b5b"
         distor_node="#749797"
-        noodle_curving="1"
+        noodle_curving="2"
         grid_levels="3"
         dash_alpha="0.423913"
         input_node="#bf616a"
@@ -1614,8 +1606,8 @@
     <panel_title>
       <ThemeFontStyle
         points="12"
-        shadow="3"
-        shadow_offset_x="-1"
+        shadow="5"
+        shadow_offset_x="0"
         shadow_offset_y="-1"
         shadow_alpha="0.5"
         shadow_value="0"
@@ -1636,7 +1628,7 @@
     <widget>
       <ThemeFontStyle
         points="11"
-        shadow="1"
+        shadow="2"
         shadow_offset_x="0"
         shadow_offset_y="-1"
         shadow_alpha="0.5"
